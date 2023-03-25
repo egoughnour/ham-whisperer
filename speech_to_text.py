@@ -33,12 +33,12 @@ for i, segment in enumerate(segment_list):
         word_data = {'word':word['word'], 'bare_word':word['word'].strip(punctuation).lower(), 'start':word['start'], 'end':word['end'], 'probability':word['probability']}
         segment_data['words'][j] = word_data
     segment_dict['segments'][i] = segment_data
-json_value = json.dumps(segment_dict, ensure_ascii=False, )
+json_value = json.dumps(segment_dict, ensure_ascii=False, indent=4)
 output_file = 'timestamps.json'
 with open(output_file, 'w') as f:
     f.write(json_value)
 output_path = Path(output_file).resolve()
-if not (output_path.exists() and output_path.if_file()):
+if not (output_path.exists() and output_path.is_file()):
     print(f'file {output_path} was not written')
 else:
     print(f'audio script with timestamps has been saved to: {output_path}')
