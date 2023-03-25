@@ -1,0 +1,416 @@
+{
+    "segments": {
+        "0": {
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Seymour, I made it despite your directions.",
+            "words": {
+                "0": {
+                    "word": " Seymour,",
+                    "bare_word": " seymour",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.7154621730248133
+                },
+                "1": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 0.42,
+                    "end": 0.48,
+                    "probability": 0.9720793962478638
+                },
+                "2": {
+                    "word": " made",
+                    "bare_word": " made",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9750574231147766
+                },
+                "3": {
+                    "word": " it",
+                    "bare_word": " it",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.9940482378005981
+                },
+                "4": {
+                    "word": " despite",
+                    "bare_word": " despite",
+                    "start": 1.16,
+                    "end": 1.64,
+                    "probability": 0.3896414637565613
+                },
+                "5": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.9917028546333313
+                },
+                "6": {
+                    "word": " directions.",
+                    "bare_word": " directions",
+                    "start": 2.02,
+                    "end": 2.54,
+                    "probability": 0.9601390361785889
+                }
+            }
+        },
+        "1": {
+            "start": 2.8,
+            "end": 4.32,
+            "text": " Ah, Superintendent Chalmers, welcome.",
+            "words": {
+                "0": {
+                    "word": " Ah,",
+                    "bare_word": " ah",
+                    "start": 2.8,
+                    "end": 3.16,
+                    "probability": 0.5557786822319031
+                },
+                "1": {
+                    "word": " Superintendent",
+                    "bare_word": " superintendent",
+                    "start": 3.2,
+                    "end": 3.66,
+                    "probability": 0.9430158734321594
+                },
+                "2": {
+                    "word": " Chalmers,",
+                    "bare_word": " chalmers",
+                    "start": 3.66,
+                    "end": 4.0,
+                    "probability": 0.9501784443855286
+                },
+                "3": {
+                    "word": " welcome.",
+                    "bare_word": " welcome",
+                    "start": 4.1,
+                    "end": 4.32,
+                    "probability": 0.9886106848716736
+                }
+            }
+        },
+        "2": {
+            "start": 4.72,
+            "end": 7.18,
+            "text": " I hope you're prepared for an unforgettable luncheon.",
+            "words": {
+                "0": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 4.72,
+                    "end": 4.92,
+                    "probability": 0.9845888018608093
+                },
+                "1": {
+                    "word": " hope",
+                    "bare_word": " hope",
+                    "start": 4.92,
+                    "end": 5.08,
+                    "probability": 0.9979628324508667
+                },
+                "2": {
+                    "word": " you're",
+                    "bare_word": " you're",
+                    "start": 5.08,
+                    "end": 5.26,
+                    "probability": 0.9614661335945129
+                },
+                "3": {
+                    "word": " prepared",
+                    "bare_word": " prepared",
+                    "start": 5.26,
+                    "end": 5.62,
+                    "probability": 0.9951571822166443
+                },
+                "4": {
+                    "word": " for",
+                    "bare_word": " for",
+                    "start": 5.62,
+                    "end": 5.84,
+                    "probability": 0.9974825978279114
+                },
+                "5": {
+                    "word": " an",
+                    "bare_word": " an",
+                    "start": 5.84,
+                    "end": 6.04,
+                    "probability": 0.9937792420387268
+                },
+                "6": {
+                    "word": " unforgettable",
+                    "bare_word": " unforgettable",
+                    "start": 6.04,
+                    "end": 6.44,
+                    "probability": 0.9868836998939514
+                },
+                "7": {
+                    "word": " luncheon.",
+                    "bare_word": " luncheon",
+                    "start": 6.44,
+                    "end": 7.18,
+                    "probability": 0.9965778291225433
+                }
+            }
+        },
+        "3": {
+            "start": 8.34,
+            "end": 8.34,
+            "text": "",
+            "words": {}
+        },
+        "4": {
+            "start": 12.3,
+            "end": 14.84,
+            "text": " Oh, ye gods! My roast is ruined!",
+            "words": {
+                "0": {
+                    "word": " Oh,",
+                    "bare_word": " oh",
+                    "start": 12.3,
+                    "end": 12.6,
+                    "probability": 0.4783584773540497
+                },
+                "1": {
+                    "word": " ye",
+                    "bare_word": " ye",
+                    "start": 12.68,
+                    "end": 12.86,
+                    "probability": 0.3745194375514984
+                },
+                "2": {
+                    "word": " gods!",
+                    "bare_word": " gods",
+                    "start": 12.86,
+                    "end": 13.22,
+                    "probability": 0.9838417768478394
+                },
+                "3": {
+                    "word": " My",
+                    "bare_word": " my",
+                    "start": 13.66,
+                    "end": 13.9,
+                    "probability": 0.9933114051818848
+                },
+                "4": {
+                    "word": " roast",
+                    "bare_word": " roast",
+                    "start": 13.9,
+                    "end": 14.14,
+                    "probability": 0.9769198894500732
+                },
+                "5": {
+                    "word": " is",
+                    "bare_word": " is",
+                    "start": 14.14,
+                    "end": 14.42,
+                    "probability": 0.995404839515686
+                },
+                "6": {
+                    "word": " ruined!",
+                    "bare_word": " ruined",
+                    "start": 14.42,
+                    "end": 14.84,
+                    "probability": 0.9986435770988464
+                }
+            }
+        },
+        "5": {
+            "start": 16.82,
+            "end": 22.1,
+            "text": " But what if I were to purchase fast food and disguise it as my own cooking?",
+            "words": {
+                "0": {
+                    "word": " But",
+                    "bare_word": " but",
+                    "start": 16.82,
+                    "end": 17.18,
+                    "probability": 0.9379387497901917
+                },
+                "1": {
+                    "word": " what",
+                    "bare_word": " what",
+                    "start": 17.18,
+                    "end": 17.46,
+                    "probability": 0.9521971344947815
+                },
+                "2": {
+                    "word": " if",
+                    "bare_word": " if",
+                    "start": 17.46,
+                    "end": 17.94,
+                    "probability": 0.9983318448066711
+                },
+                "3": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 17.94,
+                    "end": 18.78,
+                    "probability": 0.7057508826255798
+                },
+                "4": {
+                    "word": " were",
+                    "bare_word": " were",
+                    "start": 18.78,
+                    "end": 18.98,
+                    "probability": 0.9903665781021118
+                },
+                "5": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 18.98,
+                    "end": 19.18,
+                    "probability": 0.9978591799736023
+                },
+                "6": {
+                    "word": " purchase",
+                    "bare_word": " purchase",
+                    "start": 19.18,
+                    "end": 19.62,
+                    "probability": 0.9968292117118835
+                },
+                "7": {
+                    "word": " fast",
+                    "bare_word": " fast",
+                    "start": 19.62,
+                    "end": 20.12,
+                    "probability": 0.9927101135253906
+                },
+                "8": {
+                    "word": " food",
+                    "bare_word": " food",
+                    "start": 20.12,
+                    "end": 20.42,
+                    "probability": 0.9596112966537476
+                },
+                "9": {
+                    "word": " and",
+                    "bare_word": " and",
+                    "start": 20.42,
+                    "end": 20.66,
+                    "probability": 0.9525668025016785
+                },
+                "10": {
+                    "word": " disguise",
+                    "bare_word": " disguise",
+                    "start": 20.66,
+                    "end": 21.02,
+                    "probability": 0.9978304505348206
+                },
+                "11": {
+                    "word": " it",
+                    "bare_word": " it",
+                    "start": 21.02,
+                    "end": 21.22,
+                    "probability": 0.9964796900749207
+                },
+                "12": {
+                    "word": " as",
+                    "bare_word": " as",
+                    "start": 21.22,
+                    "end": 21.34,
+                    "probability": 0.9946073889732361
+                },
+                "13": {
+                    "word": " my",
+                    "bare_word": " my",
+                    "start": 21.34,
+                    "end": 21.52,
+                    "probability": 0.9989364743232727
+                },
+                "14": {
+                    "word": " own",
+                    "bare_word": " own",
+                    "start": 21.52,
+                    "end": 21.82,
+                    "probability": 0.9982594847679138
+                },
+                "15": {
+                    "word": " cooking?",
+                    "bare_word": " cooking",
+                    "start": 21.82,
+                    "end": 22.1,
+                    "probability": 0.9994650483131409
+                }
+            }
+        },
+        "6": {
+            "start": 23.22,
+            "end": 26.64,
+            "text": " Ho, ho, ho, ho, ho. Delightfully devilish, Seymour.",
+            "words": {
+                "0": {
+                    "word": " Ho,",
+                    "bare_word": " ho",
+                    "start": 23.22,
+                    "end": 23.28,
+                    "probability": 0.5501278638839722
+                },
+                "1": {
+                    "word": " ho,",
+                    "bare_word": " ho",
+                    "start": 23.28,
+                    "end": 23.56,
+                    "probability": 0.9908315539360046
+                },
+                "2": {
+                    "word": " ho,",
+                    "bare_word": " ho",
+                    "start": 23.56,
+                    "end": 23.9,
+                    "probability": 0.991192638874054
+                },
+                "3": {
+                    "word": " ho,",
+                    "bare_word": " ho",
+                    "start": 23.9,
+                    "end": 24.26,
+                    "probability": 0.9768326282501221
+                },
+                "4": {
+                    "word": " ho.",
+                    "bare_word": " ho",
+                    "start": 24.26,
+                    "end": 24.48,
+                    "probability": 0.9364691972732544
+                },
+                "5": {
+                    "word": " Delightfully",
+                    "bare_word": " delightfully",
+                    "start": 24.76,
+                    "end": 25.44,
+                    "probability": 0.9960527618726095
+                },
+                "6": {
+                    "word": " devilish,",
+                    "bare_word": " devilish",
+                    "start": 25.44,
+                    "end": 26.08,
+                    "probability": 0.957743912935257
+                },
+                "7": {
+                    "word": " Seymour.",
+                    "bare_word": " seymour",
+                    "start": 26.16,
+                    "end": 26.64,
+                    "probability": 0.9994050860404968
+                }
+            }
+        },
+        "7": {
+            "start": 26.64,
+            "end": 29.08,
+            "text": " Done.",
+            "words": {
+                "0": {
+                    "word": " Done.",
+                    "bare_word": " done",
+                    "start": 26.64,
+                    "end": 29.08,
+                    "probability": 0.025147978216409683
+                }
+            }
+        }
+    }
+}
