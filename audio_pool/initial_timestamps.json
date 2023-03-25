@@ -1,0 +1,1934 @@
+{
+    "segments": {
+        "0": {
+            "start": 0.0,
+            "end": 6.52,
+            "text": " If I had it, I'd caress it.",
+            "words": {
+                "0": {
+                    "word": " If",
+                    "bare_word": " if",
+                    "start": 0.0,
+                    "end": 1.06,
+                    "probability": 0.0020611716900020838
+                },
+                "1": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 1.06,
+                    "end": 1.06,
+                    "probability": 0.016891200095415115
+                },
+                "2": {
+                    "word": " had",
+                    "bare_word": " had",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.02825813926756382
+                },
+                "3": {
+                    "word": " it,",
+                    "bare_word": " it",
+                    "start": 1.22,
+                    "end": 2.32,
+                    "probability": 0.02264912612736225
+                },
+                "4": {
+                    "word": " I'd",
+                    "bare_word": " i'd",
+                    "start": 2.32,
+                    "end": 6.48,
+                    "probability": 0.5208232551813126
+                },
+                "5": {
+                    "word": " caress",
+                    "bare_word": " caress",
+                    "start": 6.48,
+                    "end": 6.48,
+                    "probability": 0.42306916144070783
+                },
+                "6": {
+                    "word": " it.",
+                    "bare_word": " it",
+                    "start": 6.48,
+                    "end": 6.52,
+                    "probability": 0.5253608822822571
+                }
+            }
+        },
+        "1": {
+            "start": 6.52,
+            "end": 7.04,
+            "text": " When I care, I caress it.",
+            "words": {
+                "0": {
+                    "word": " When",
+                    "bare_word": " when",
+                    "start": 6.52,
+                    "end": 7.04,
+                    "probability": 0.002305305330082774
+                },
+                "1": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 7.04,
+                    "end": 7.04,
+                    "probability": 0.3508796989917755
+                },
+                "2": {
+                    "word": " care,",
+                    "bare_word": " care",
+                    "start": 7.04,
+                    "end": 7.04,
+                    "probability": 0.0011184870963916183
+                },
+                "3": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 7.04,
+                    "end": 7.04,
+                    "probability": 0.5553134083747864
+                },
+                "4": {
+                    "word": " caress",
+                    "bare_word": " caress",
+                    "start": 7.04,
+                    "end": 7.04,
+                    "probability": 0.6503754109144211
+                },
+                "5": {
+                    "word": " it.",
+                    "bare_word": " it",
+                    "start": 7.04,
+                    "end": 7.04,
+                    "probability": 0.7844275832176208
+                }
+            }
+        },
+        "2": {
+            "start": 7.24,
+            "end": 7.24,
+            "text": "",
+            "words": {}
+        },
+        "3": {
+            "start": 7.24,
+            "end": 17.8,
+            "text": " Oh, oh, oh, you caress me,",
+            "words": {
+                "0": {
+                    "word": " Oh,",
+                    "bare_word": " oh",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.00032900841324590147
+                },
+                "1": {
+                    "word": " oh,",
+                    "bare_word": " oh",
+                    "start": 8.76,
+                    "end": 8.76,
+                    "probability": 0.07605155557394028
+                },
+                "2": {
+                    "word": " oh,",
+                    "bare_word": " oh",
+                    "start": 8.76,
+                    "end": 9.18,
+                    "probability": 0.8225225210189819
+                },
+                "3": {
+                    "word": " you",
+                    "bare_word": " you",
+                    "start": 9.18,
+                    "end": 11.82,
+                    "probability": 0.02250278741121292
+                },
+                "4": {
+                    "word": " caress",
+                    "bare_word": " caress",
+                    "start": 11.82,
+                    "end": 17.8,
+                    "probability": 0.9747317135334015
+                },
+                "5": {
+                    "word": " me,",
+                    "bare_word": " me",
+                    "start": 17.8,
+                    "end": 17.8,
+                    "probability": 0.9369894862174988
+                }
+            }
+        },
+        "4": {
+            "start": 18.32,
+            "end": 18.32,
+            "text": "",
+            "words": {}
+        },
+        "5": {
+            "start": 24.18,
+            "end": 26.24,
+            "text": " Lift up your head.",
+            "words": {
+                "0": {
+                    "word": " Lift",
+                    "bare_word": " lift",
+                    "start": 24.18,
+                    "end": 24.94,
+                    "probability": 0.08412934094667435
+                },
+                "1": {
+                    "word": " up",
+                    "bare_word": " up",
+                    "start": 24.94,
+                    "end": 25.16,
+                    "probability": 0.9905568361282349
+                },
+                "2": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 25.16,
+                    "end": 25.52,
+                    "probability": 0.9859210848808289
+                },
+                "3": {
+                    "word": " head.",
+                    "bare_word": " head",
+                    "start": 25.52,
+                    "end": 26.24,
+                    "probability": 0.9367924332618713
+                }
+            }
+        },
+        "6": {
+            "start": 26.8,
+            "end": 29.9,
+            "text": " metro station",
+            "words": {
+                "0": {
+                    "word": " metro",
+                    "bare_word": " metro",
+                    "start": 26.8,
+                    "end": 28.26,
+                    "probability": 8.103619393295958e-07
+                },
+                "1": {
+                    "word": " station",
+                    "bare_word": " station",
+                    "start": 28.26,
+                    "end": 29.9,
+                    "probability": 0.09476722776889801
+                }
+            }
+        },
+        "7": {
+            "start": 29.9,
+            "end": 31.66,
+            "text": " Here, take my Kleenex,",
+            "words": {
+                "0": {
+                    "word": " Here,",
+                    "bare_word": " here",
+                    "start": 29.9,
+                    "end": 30.32,
+                    "probability": 0.5222226977348328
+                },
+                "1": {
+                    "word": " take",
+                    "bare_word": " take",
+                    "start": 30.5,
+                    "end": 30.5,
+                    "probability": 0.9705713987350464
+                },
+                "2": {
+                    "word": " my",
+                    "bare_word": " my",
+                    "start": 30.5,
+                    "end": 30.88,
+                    "probability": 0.9967502355575562
+                },
+                "3": {
+                    "word": " Kleenex,",
+                    "bare_word": " kleenex",
+                    "start": 30.88,
+                    "end": 31.66,
+                    "probability": 0.969766358534495
+                }
+            }
+        },
+        "8": {
+            "start": 31.96,
+            "end": 33.94,
+            "text": " Wipe that lipstick away.",
+            "words": {
+                "0": {
+                    "word": " Wipe",
+                    "bare_word": " wipe",
+                    "start": 31.96,
+                    "end": 32.18,
+                    "probability": 0.5279639791697264
+                },
+                "1": {
+                    "word": " that",
+                    "bare_word": " that",
+                    "start": 32.18,
+                    "end": 32.44,
+                    "probability": 0.9907127022743225
+                },
+                "2": {
+                    "word": " lipstick",
+                    "bare_word": " lipstick",
+                    "start": 32.44,
+                    "end": 32.78,
+                    "probability": 0.9693583250045776
+                },
+                "3": {
+                    "word": " away.",
+                    "bare_word": " away",
+                    "start": 32.78,
+                    "end": 33.94,
+                    "probability": 0.9977689981460571
+                }
+            }
+        },
+        "9": {
+            "start": 35.44,
+            "end": 36.96,
+            "text": " Show me your face,",
+            "words": {
+                "0": {
+                    "word": " Show",
+                    "bare_word": " show",
+                    "start": 35.44,
+                    "end": 35.48,
+                    "probability": 0.9628283381462097
+                },
+                "1": {
+                    "word": " me",
+                    "bare_word": " me",
+                    "start": 35.48,
+                    "end": 35.76,
+                    "probability": 0.9986805319786072
+                },
+                "2": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 35.76,
+                    "end": 35.96,
+                    "probability": 0.8894753456115723
+                },
+                "3": {
+                    "word": " face,",
+                    "bare_word": " face",
+                    "start": 35.96,
+                    "end": 36.96,
+                    "probability": 0.9985942244529724
+                }
+            }
+        },
+        "10": {
+            "start": 37.68,
+            "end": 38.86,
+            "text": " Clean as the morning.",
+            "words": {
+                "0": {
+                    "word": " Clean",
+                    "bare_word": " clean",
+                    "start": 37.68,
+                    "end": 37.82,
+                    "probability": 0.6705383062362671
+                },
+                "1": {
+                    "word": " as",
+                    "bare_word": " as",
+                    "start": 37.82,
+                    "end": 38.02,
+                    "probability": 0.9758233428001404
+                },
+                "2": {
+                    "word": " the",
+                    "bare_word": " the",
+                    "start": 38.02,
+                    "end": 38.3,
+                    "probability": 0.9966890215873718
+                },
+                "3": {
+                    "word": " morning.",
+                    "bare_word": " morning",
+                    "start": 38.3,
+                    "end": 38.86,
+                    "probability": 0.9442797303199768
+                }
+            }
+        },
+        "11": {
+            "start": 40.12,
+            "end": 41.68,
+            "text": " I know things were bad,",
+            "words": {
+                "0": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 40.12,
+                    "end": 40.28,
+                    "probability": 0.8649499416351318
+                },
+                "1": {
+                    "word": " know",
+                    "bare_word": " know",
+                    "start": 40.28,
+                    "end": 40.42,
+                    "probability": 0.9836822152137756
+                },
+                "2": {
+                    "word": " things",
+                    "bare_word": " things",
+                    "start": 40.42,
+                    "end": 40.74,
+                    "probability": 0.9879201650619507
+                },
+                "3": {
+                    "word": " were",
+                    "bare_word": " were",
+                    "start": 40.74,
+                    "end": 41.06,
+                    "probability": 0.9957008957862854
+                },
+                "4": {
+                    "word": " bad,",
+                    "bare_word": " bad",
+                    "start": 41.06,
+                    "end": 41.68,
+                    "probability": 0.998512327671051
+                }
+            }
+        },
+        "12": {
+            "start": 42.7,
+            "end": 45.0,
+            "text": " But now they're okay.",
+            "words": {
+                "0": {
+                    "word": " But",
+                    "bare_word": " but",
+                    "start": 42.7,
+                    "end": 42.94,
+                    "probability": 0.8146620988845825
+                },
+                "1": {
+                    "word": " now",
+                    "bare_word": " now",
+                    "start": 42.94,
+                    "end": 43.36,
+                    "probability": 0.9843467473983765
+                },
+                "2": {
+                    "word": " they're",
+                    "bare_word": " they're",
+                    "start": 43.36,
+                    "end": 44.08,
+                    "probability": 0.9764960706233978
+                },
+                "3": {
+                    "word": " okay.",
+                    "bare_word": " okay",
+                    "start": 44.08,
+                    "end": 45.0,
+                    "probability": 0.8280125856399536
+                }
+            }
+        },
+        "13": {
+            "start": 48.1,
+            "end": 51.36,
+            "text": " Suddenly, you see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 48.1,
+                    "end": 49.02,
+                    "probability": 0.8158563375473022
+                },
+                "1": {
+                    "word": " you",
+                    "bare_word": " you",
+                    "start": 49.04,
+                    "end": 49.34,
+                    "probability": 0.2595456838607788
+                },
+                "2": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 49.34,
+                    "end": 49.66,
+                    "probability": 0.9519054889678955
+                },
+                "3": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 49.66,
+                    "end": 51.36,
+                    "probability": 0.9655148983001709
+                }
+            }
+        },
+        "14": {
+            "start": 52.78,
+            "end": 55.9,
+            "text": " Standing beside you.",
+            "words": {
+                "0": {
+                    "word": " Standing",
+                    "bare_word": " standing",
+                    "start": 52.78,
+                    "end": 53.46,
+                    "probability": 0.7606191039085388
+                },
+                "1": {
+                    "word": " beside",
+                    "bare_word": " beside",
+                    "start": 53.46,
+                    "end": 54.58,
+                    "probability": 0.9802424311637878
+                },
+                "2": {
+                    "word": " you.",
+                    "bare_word": " you",
+                    "start": 54.58,
+                    "end": 55.9,
+                    "probability": 0.9958802461624146
+                }
+            }
+        },
+        "15": {
+            "start": 56.42,
+            "end": 60.34,
+            "text": " You don't need no makeup,",
+            "words": {
+                "0": {
+                    "word": " You",
+                    "bare_word": " you",
+                    "start": 56.42,
+                    "end": 57.54,
+                    "probability": 0.24586093425750732
+                },
+                "1": {
+                    "word": " don't",
+                    "bare_word": " don't",
+                    "start": 57.54,
+                    "end": 58.0,
+                    "probability": 0.984295666217804
+                },
+                "2": {
+                    "word": " need",
+                    "bare_word": " need",
+                    "start": 58.0,
+                    "end": 58.42,
+                    "probability": 0.9241156578063965
+                },
+                "3": {
+                    "word": " no",
+                    "bare_word": " no",
+                    "start": 58.42,
+                    "end": 59.14,
+                    "probability": 0.9139362573623657
+                },
+                "4": {
+                    "word": " makeup,",
+                    "bare_word": " makeup",
+                    "start": 59.14,
+                    "end": 60.34,
+                    "probability": 0.8077696561813354
+                }
+            }
+        },
+        "16": {
+            "start": 60.36,
+            "end": 66.24,
+            "text": " Don't have to pretend.",
+            "words": {
+                "0": {
+                    "word": " Don't",
+                    "bare_word": " don't",
+                    "start": 60.36,
+                    "end": 62.14,
+                    "probability": 0.5412346534430981
+                },
+                "1": {
+                    "word": " have",
+                    "bare_word": " have",
+                    "start": 62.14,
+                    "end": 62.6,
+                    "probability": 0.9981046915054321
+                },
+                "2": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 62.6,
+                    "end": 63.08,
+                    "probability": 0.9971274733543396
+                },
+                "3": {
+                    "word": " pretend.",
+                    "bare_word": " pretend",
+                    "start": 63.08,
+                    "end": 66.24,
+                    "probability": 0.9953996539115906
+                }
+            }
+        },
+        "17": {
+            "start": 66.84,
+            "end": 69.76,
+            "text": " Suddenly, see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 66.84,
+                    "end": 67.84,
+                    "probability": 0.9469993114471436
+                },
+                "1": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 68.46,
+                    "end": 68.48,
+                    "probability": 0.0009782646084204316
+                },
+                "2": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 68.48,
+                    "end": 69.76,
+                    "probability": 0.7330692410469055
+                }
+            }
+        },
+        "18": {
+            "start": 71.26,
+            "end": 75.5,
+            "text": " Is here to provide you,",
+            "words": {
+                "0": {
+                    "word": " Is",
+                    "bare_word": " is",
+                    "start": 71.26,
+                    "end": 71.44,
+                    "probability": 0.49054306745529175
+                },
+                "1": {
+                    "word": " here",
+                    "bare_word": " here",
+                    "start": 71.44,
+                    "end": 71.74,
+                    "probability": 0.9911689758300781
+                },
+                "2": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 71.74,
+                    "end": 72.3,
+                    "probability": 0.996496856212616
+                },
+                "3": {
+                    "word": " provide",
+                    "bare_word": " provide",
+                    "start": 72.3,
+                    "end": 73.7,
+                    "probability": 0.9785903096199036
+                },
+                "4": {
+                    "word": " you,",
+                    "bare_word": " you",
+                    "start": 73.7,
+                    "end": 75.5,
+                    "probability": 0.9660083651542664
+                }
+            }
+        },
+        "19": {
+            "start": 76.0,
+            "end": 78.8,
+            "text": " Sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " Sweet",
+                    "bare_word": " sweet",
+                    "start": 76.0,
+                    "end": 76.5,
+                    "probability": 0.89338219165802
+                },
+                "1": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 76.5,
+                    "end": 78.8,
+                    "probability": 0.954383134841919
+                }
+            }
+        },
+        "20": {
+            "start": 80.62,
+            "end": 81.96,
+            "text": " See more as your friend.",
+            "words": {
+                "0": {
+                    "word": " See",
+                    "bare_word": " see",
+                    "start": 80.62,
+                    "end": 81.02,
+                    "probability": 0.3647367060184479
+                },
+                "1": {
+                    "word": " more",
+                    "bare_word": " more",
+                    "start": 81.02,
+                    "end": 81.34,
+                    "probability": 0.9651626348495483
+                },
+                "2": {
+                    "word": " as",
+                    "bare_word": " as",
+                    "start": 81.34,
+                    "end": 81.52,
+                    "probability": 0.5145511627197266
+                },
+                "3": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 81.52,
+                    "end": 81.92,
+                    "probability": 0.9609196186065674
+                },
+                "4": {
+                    "word": " friend.",
+                    "bare_word": " friend",
+                    "start": 81.92,
+                    "end": 81.96,
+                    "probability": 0.9105451107025146
+                }
+            }
+        },
+        "21": {
+            "start": 82.54,
+            "end": 86.2,
+            "text": " Nobody ever treated me kindly,",
+            "words": {
+                "0": {
+                    "word": " Nobody",
+                    "bare_word": " nobody",
+                    "start": 82.54,
+                    "end": 83.54,
+                    "probability": 0.008280239067971706
+                },
+                "1": {
+                    "word": " ever",
+                    "bare_word": " ever",
+                    "start": 83.54,
+                    "end": 83.9,
+                    "probability": 0.9221827983856201
+                },
+                "2": {
+                    "word": " treated",
+                    "bare_word": " treated",
+                    "start": 83.9,
+                    "end": 84.54,
+                    "probability": 0.9833201766014099
+                },
+                "3": {
+                    "word": " me",
+                    "bare_word": " me",
+                    "start": 84.54,
+                    "end": 85.02,
+                    "probability": 0.997492790222168
+                },
+                "4": {
+                    "word": " kindly,",
+                    "bare_word": " kindly",
+                    "start": 85.02,
+                    "end": 86.2,
+                    "probability": 0.9857720732688904
+                }
+            }
+        },
+        "22": {
+            "start": 86.88,
+            "end": 88.5,
+            "text": " Daddy left early,",
+            "words": {
+                "0": {
+                    "word": " Daddy",
+                    "bare_word": " daddy",
+                    "start": 86.88,
+                    "end": 87.18,
+                    "probability": 0.2915342152118683
+                },
+                "1": {
+                    "word": " left",
+                    "bare_word": " left",
+                    "start": 87.18,
+                    "end": 87.66,
+                    "probability": 0.9819852709770203
+                },
+                "2": {
+                    "word": " early,",
+                    "bare_word": " early",
+                    "start": 87.66,
+                    "end": 88.5,
+                    "probability": 0.9965337514877319
+                }
+            }
+        },
+        "23": {
+            "start": 89.06,
+            "end": 90.5,
+            "text": " Mama was poor.",
+            "words": {
+                "0": {
+                    "word": " Mama",
+                    "bare_word": " mama",
+                    "start": 89.06,
+                    "end": 89.52,
+                    "probability": 0.6865451335906982
+                },
+                "1": {
+                    "word": " was",
+                    "bare_word": " was",
+                    "start": 89.52,
+                    "end": 90.08,
+                    "probability": 0.9943544864654541
+                },
+                "2": {
+                    "word": " poor.",
+                    "bare_word": " poor",
+                    "start": 90.08,
+                    "end": 90.5,
+                    "probability": 0.9854897260665894
+                }
+            }
+        },
+        "24": {
+            "start": 91.18,
+            "end": 94.82,
+            "text": " I'd meet a man and I'd follow him blindly,",
+            "words": {
+                "0": {
+                    "word": " I'd",
+                    "bare_word": " i'd",
+                    "start": 91.18,
+                    "end": 91.56,
+                    "probability": 0.9213195741176605
+                },
+                "1": {
+                    "word": " meet",
+                    "bare_word": " meet",
+                    "start": 91.56,
+                    "end": 91.64,
+                    "probability": 0.9954551458358765
+                },
+                "2": {
+                    "word": " a",
+                    "bare_word": " a",
+                    "start": 91.64,
+                    "end": 91.84,
+                    "probability": 0.9914757013320923
+                },
+                "3": {
+                    "word": " man",
+                    "bare_word": " man",
+                    "start": 91.84,
+                    "end": 92.24,
+                    "probability": 0.998420238494873
+                },
+                "4": {
+                    "word": " and",
+                    "bare_word": " and",
+                    "start": 92.24,
+                    "end": 92.64,
+                    "probability": 0.8342795372009277
+                },
+                "5": {
+                    "word": " I'd",
+                    "bare_word": " i'd",
+                    "start": 92.64,
+                    "end": 93.42,
+                    "probability": 0.947010725736618
+                },
+                "6": {
+                    "word": " follow",
+                    "bare_word": " follow",
+                    "start": 93.42,
+                    "end": 93.84,
+                    "probability": 0.9673334360122681
+                },
+                "7": {
+                    "word": " him",
+                    "bare_word": " him",
+                    "start": 93.84,
+                    "end": 94.32,
+                    "probability": 0.9978901743888855
+                },
+                "8": {
+                    "word": " blindly,",
+                    "bare_word": " blindly",
+                    "start": 94.32,
+                    "end": 94.82,
+                    "probability": 0.9967097043991089
+                }
+            }
+        },
+        "25": {
+            "start": 95.66,
+            "end": 97.6,
+            "text": " He'd snap his fingers near,",
+            "words": {
+                "0": {
+                    "word": " He'd",
+                    "bare_word": " he'd",
+                    "start": 95.66,
+                    "end": 96.1,
+                    "probability": 0.8822207748889923
+                },
+                "1": {
+                    "word": " snap",
+                    "bare_word": " snap",
+                    "start": 96.1,
+                    "end": 96.32,
+                    "probability": 0.9903566241264343
+                },
+                "2": {
+                    "word": " his",
+                    "bare_word": " his",
+                    "start": 96.32,
+                    "end": 96.7,
+                    "probability": 0.9610479474067688
+                },
+                "3": {
+                    "word": " fingers",
+                    "bare_word": " fingers",
+                    "start": 96.7,
+                    "end": 97.16,
+                    "probability": 0.9574983716011047
+                },
+                "4": {
+                    "word": " near,",
+                    "bare_word": " near",
+                    "start": 97.16,
+                    "end": 97.6,
+                    "probability": 0.22166582942008972
+                }
+            }
+        },
+        "26": {
+            "start": 98.68,
+            "end": 100.66,
+            "text": " I'd say, sure.",
+            "words": {
+                "0": {
+                    "word": " I'd",
+                    "bare_word": " i'd",
+                    "start": 98.68,
+                    "end": 99.5,
+                    "probability": 0.9777720868587494
+                },
+                "1": {
+                    "word": " say,",
+                    "bare_word": " say",
+                    "start": 99.5,
+                    "end": 99.8,
+                    "probability": 0.9504350423812866
+                },
+                "2": {
+                    "word": " sure.",
+                    "bare_word": " sure",
+                    "start": 100.22,
+                    "end": 100.66,
+                    "probability": 0.14823582768440247
+                }
+            }
+        },
+        "27": {
+            "start": 102.1,
+            "end": 106.0,
+            "text": " Suddenly, see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 102.1,
+                    "end": 103.3,
+                    "probability": 0.9153359532356262
+                },
+                "1": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 104.16,
+                    "end": 104.84,
+                    "probability": 0.0009328487794846296
+                },
+                "2": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 104.84,
+                    "end": 106.0,
+                    "probability": 0.009012066759169102
+                }
+            }
+        },
+        "28": {
+            "start": 106.32,
+            "end": 109.42,
+            "text": " Is standing beside me.",
+            "words": {
+                "0": {
+                    "word": " Is",
+                    "bare_word": " is",
+                    "start": 106.32,
+                    "end": 106.66,
+                    "probability": 0.0550614632666111
+                },
+                "1": {
+                    "word": " standing",
+                    "bare_word": " standing",
+                    "start": 106.66,
+                    "end": 107.28,
+                    "probability": 0.8704436421394348
+                },
+                "2": {
+                    "word": " beside",
+                    "bare_word": " beside",
+                    "start": 107.28,
+                    "end": 108.44,
+                    "probability": 0.5061708688735962
+                },
+                "3": {
+                    "word": " me.",
+                    "bare_word": " me",
+                    "start": 108.44,
+                    "end": 109.42,
+                    "probability": 0.9969757795333862
+                }
+            }
+        },
+        "29": {
+            "start": 109.42,
+            "end": 114.62,
+            "text": " You don't give me your life,",
+            "words": {
+                "0": {
+                    "word": " You",
+                    "bare_word": " you",
+                    "start": 109.42,
+                    "end": 110.66,
+                    "probability": 0.05173309147357941
+                },
+                "1": {
+                    "word": " don't",
+                    "bare_word": " don't",
+                    "start": 110.66,
+                    "end": 111.54,
+                    "probability": 0.8141098618507385
+                },
+                "2": {
+                    "word": " give",
+                    "bare_word": " give",
+                    "start": 111.54,
+                    "end": 111.9,
+                    "probability": 0.7318428158760071
+                },
+                "3": {
+                    "word": " me",
+                    "bare_word": " me",
+                    "start": 111.9,
+                    "end": 112.66,
+                    "probability": 0.9920060038566589
+                },
+                "4": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 112.66,
+                    "end": 113.42,
+                    "probability": 0.8326766490936279
+                },
+                "5": {
+                    "word": " life,",
+                    "bare_word": " life",
+                    "start": 113.42,
+                    "end": 114.62,
+                    "probability": 0.6595234870910645
+                }
+            }
+        },
+        "30": {
+            "start": 114.72,
+            "end": 119.74,
+            "text": " You don't come to dance.",
+            "words": {
+                "0": {
+                    "word": " You",
+                    "bare_word": " you",
+                    "start": 114.72,
+                    "end": 115.48,
+                    "probability": 0.07166729122400284
+                },
+                "1": {
+                    "word": " don't",
+                    "bare_word": " don't",
+                    "start": 115.48,
+                    "end": 116.3,
+                    "probability": 0.9906367063522339
+                },
+                "2": {
+                    "word": " come",
+                    "bare_word": " come",
+                    "start": 116.3,
+                    "end": 116.9,
+                    "probability": 0.503750205039978
+                },
+                "3": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 116.9,
+                    "end": 117.78,
+                    "probability": 0.47826001048088074
+                },
+                "4": {
+                    "word": " dance.",
+                    "bare_word": " dance",
+                    "start": 117.78,
+                    "end": 119.74,
+                    "probability": 0.4946308135986328
+                }
+            }
+        },
+        "31": {
+            "start": 120.3,
+            "end": 123.44,
+            "text": " Suddenly, see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 120.3,
+                    "end": 121.02,
+                    "probability": 0.0014984156005084515
+                },
+                "1": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 121.34,
+                    "end": 122.28,
+                    "probability": 0.010118789039552212
+                },
+                "2": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 122.28,
+                    "end": 123.44,
+                    "probability": 0.006248042918741703
+                }
+            }
+        },
+        "32": {
+            "start": 124.0,
+            "end": 128.06,
+            "text": " Is here to provide me,",
+            "words": {
+                "0": {
+                    "word": " Is",
+                    "bare_word": " is",
+                    "start": 124.0,
+                    "end": 124.34,
+                    "probability": 0.1715003252029419
+                },
+                "1": {
+                    "word": " here",
+                    "bare_word": " here",
+                    "start": 124.34,
+                    "end": 124.56,
+                    "probability": 0.9477197527885437
+                },
+                "2": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 124.56,
+                    "end": 125.18,
+                    "probability": 0.9933968782424927
+                },
+                "3": {
+                    "word": " provide",
+                    "bare_word": " provide",
+                    "start": 125.18,
+                    "end": 126.02,
+                    "probability": 0.6066253185272217
+                },
+                "4": {
+                    "word": " me,",
+                    "bare_word": " me",
+                    "start": 126.02,
+                    "end": 128.06,
+                    "probability": 0.9921844601631165
+                }
+            }
+        },
+        "33": {
+            "start": 129.1,
+            "end": 131.2,
+            "text": " Sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " Sweet",
+                    "bare_word": " sweet",
+                    "start": 129.1,
+                    "end": 129.1,
+                    "probability": 0.6353034973144531
+                },
+                "1": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 129.1,
+                    "end": 131.2,
+                    "probability": 0.9237463474273682
+                }
+            }
+        },
+        "34": {
+            "start": 133.26,
+            "end": 134.14,
+            "text": " See more as my friend.",
+            "words": {
+                "0": {
+                    "word": " See",
+                    "bare_word": " see",
+                    "start": 133.26,
+                    "end": 133.6,
+                    "probability": 0.04710961878299713
+                },
+                "1": {
+                    "word": " more",
+                    "bare_word": " more",
+                    "start": 133.6,
+                    "end": 134.02,
+                    "probability": 0.10834463685750961
+                },
+                "2": {
+                    "word": " as",
+                    "bare_word": " as",
+                    "start": 134.02,
+                    "end": 134.12,
+                    "probability": 0.005735114682465792
+                },
+                "3": {
+                    "word": " my",
+                    "bare_word": " my",
+                    "start": 134.12,
+                    "end": 134.14,
+                    "probability": 0.6006566286087036
+                },
+                "4": {
+                    "word": " friend.",
+                    "bare_word": " friend",
+                    "start": 134.14,
+                    "end": 134.14,
+                    "probability": 0.0040901764295995235
+                }
+            }
+        },
+        "35": {
+            "start": 134.14,
+            "end": 135.82,
+            "text": " Tell me this feeling,",
+            "words": {
+                "0": {
+                    "word": " Tell",
+                    "bare_word": " tell",
+                    "start": 134.14,
+                    "end": 134.5,
+                    "probability": 0.7768135666847229
+                },
+                "1": {
+                    "word": " me",
+                    "bare_word": " me",
+                    "start": 134.5,
+                    "end": 134.78,
+                    "probability": 0.9939696788787842
+                },
+                "2": {
+                    "word": " this",
+                    "bare_word": " this",
+                    "start": 134.78,
+                    "end": 135.08,
+                    "probability": 0.9473357796669006
+                },
+                "3": {
+                    "word": " feeling,",
+                    "bare_word": " feeling",
+                    "start": 135.08,
+                    "end": 135.82,
+                    "probability": 0.9557734131813049
+                }
+            }
+        },
+        "36": {
+            "start": 136.4,
+            "end": 137.6,
+            "text": " Last till forever.",
+            "words": {
+                "0": {
+                    "word": " Last",
+                    "bare_word": " last",
+                    "start": 136.4,
+                    "end": 136.6,
+                    "probability": 0.5303987860679626
+                },
+                "1": {
+                    "word": " till",
+                    "bare_word": " till",
+                    "start": 136.6,
+                    "end": 136.86,
+                    "probability": 0.6443547010421753
+                },
+                "2": {
+                    "word": " forever.",
+                    "bare_word": " forever",
+                    "start": 136.86,
+                    "end": 137.6,
+                    "probability": 0.9940522313117981
+                }
+            }
+        },
+        "37": {
+            "start": 137.68,
+            "end": 140.04,
+            "text": " Tell me the bad times,",
+            "words": {
+                "0": {
+                    "word": " Tell",
+                    "bare_word": " tell",
+                    "start": 137.68,
+                    "end": 138.6,
+                    "probability": 0.34903407096862793
+                },
+                "1": {
+                    "word": " me",
+                    "bare_word": " me",
+                    "start": 138.6,
+                    "end": 138.92,
+                    "probability": 0.9906202554702759
+                },
+                "2": {
+                    "word": " the",
+                    "bare_word": " the",
+                    "start": 138.92,
+                    "end": 139.26,
+                    "probability": 0.9311549067497253
+                },
+                "3": {
+                    "word": " bad",
+                    "bare_word": " bad",
+                    "start": 139.26,
+                    "end": 139.58,
+                    "probability": 0.8918353915214539
+                },
+                "4": {
+                    "word": " times,",
+                    "bare_word": " times",
+                    "start": 139.58,
+                    "end": 140.04,
+                    "probability": 0.9836797118186951
+                }
+            }
+        },
+        "38": {
+            "start": 140.22,
+            "end": 142.22,
+            "text": " Are clean washed away.",
+            "words": {
+                "0": {
+                    "word": " Are",
+                    "bare_word": " are",
+                    "start": 140.22,
+                    "end": 140.52,
+                    "probability": 0.0331561416387558
+                },
+                "1": {
+                    "word": " clean",
+                    "bare_word": " clean",
+                    "start": 140.52,
+                    "end": 140.8,
+                    "probability": 0.8173543810844421
+                },
+                "2": {
+                    "word": " washed",
+                    "bare_word": " washed",
+                    "start": 140.8,
+                    "end": 141.26,
+                    "probability": 0.8851861953735352
+                },
+                "3": {
+                    "word": " away.",
+                    "bare_word": " away",
+                    "start": 141.26,
+                    "end": 142.22,
+                    "probability": 0.9982445240020752
+                }
+            }
+        },
+        "39": {
+            "start": 142.78,
+            "end": 144.1,
+            "text": " Please understand that,",
+            "words": {
+                "0": {
+                    "word": " Please",
+                    "bare_word": " please",
+                    "start": 142.78,
+                    "end": 142.8,
+                    "probability": 0.5306041836738586
+                },
+                "1": {
+                    "word": " understand",
+                    "bare_word": " understand",
+                    "start": 142.8,
+                    "end": 143.72,
+                    "probability": 0.9880645871162415
+                },
+                "2": {
+                    "word": " that,",
+                    "bare_word": " that",
+                    "start": 143.72,
+                    "end": 144.1,
+                    "probability": 0.7077416181564331
+                }
+            }
+        },
+        "40": {
+            "start": 144.2,
+            "end": 146.08,
+            "text": " It's still strange and frightening,",
+            "words": {
+                "0": {
+                    "word": " It's",
+                    "bare_word": " it's",
+                    "start": 144.2,
+                    "end": 144.68,
+                    "probability": 0.8845423460006714
+                },
+                "1": {
+                    "word": " still",
+                    "bare_word": " still",
+                    "start": 144.68,
+                    "end": 144.8,
+                    "probability": 0.7269002199172974
+                },
+                "2": {
+                    "word": " strange",
+                    "bare_word": " strange",
+                    "start": 144.8,
+                    "end": 145.3,
+                    "probability": 0.9920324087142944
+                },
+                "3": {
+                    "word": " and",
+                    "bare_word": " and",
+                    "start": 145.3,
+                    "end": 145.7,
+                    "probability": 0.9862557053565979
+                },
+                "4": {
+                    "word": " frightening,",
+                    "bare_word": " frightening",
+                    "start": 145.7,
+                    "end": 146.08,
+                    "probability": 0.8196809887886047
+                }
+            }
+        },
+        "41": {
+            "start": 146.48,
+            "end": 148.52,
+            "text": " But losers like I've been,",
+            "words": {
+                "0": {
+                    "word": " But",
+                    "bare_word": " but",
+                    "start": 146.48,
+                    "end": 146.8,
+                    "probability": 0.21210257709026337
+                },
+                "1": {
+                    "word": " losers",
+                    "bare_word": " losers",
+                    "start": 146.8,
+                    "end": 147.34,
+                    "probability": 0.9008021950721741
+                },
+                "2": {
+                    "word": " like",
+                    "bare_word": " like",
+                    "start": 147.34,
+                    "end": 147.9,
+                    "probability": 0.9278719425201416
+                },
+                "3": {
+                    "word": " I've",
+                    "bare_word": " i've",
+                    "start": 147.9,
+                    "end": 148.26,
+                    "probability": 0.7741592824459076
+                },
+                "4": {
+                    "word": " been,",
+                    "bare_word": " been",
+                    "start": 148.26,
+                    "end": 148.52,
+                    "probability": 0.9957644939422607
+                }
+            }
+        },
+        "42": {
+            "start": 148.74,
+            "end": 152.22,
+            "text": " It's so hard to say.",
+            "words": {
+                "0": {
+                    "word": " It's",
+                    "bare_word": " it's",
+                    "start": 148.74,
+                    "end": 149.36,
+                    "probability": 0.9226153194904327
+                },
+                "1": {
+                    "word": " so",
+                    "bare_word": " so",
+                    "start": 149.36,
+                    "end": 149.8,
+                    "probability": 0.7697751522064209
+                },
+                "2": {
+                    "word": " hard",
+                    "bare_word": " hard",
+                    "start": 149.8,
+                    "end": 150.26,
+                    "probability": 0.9964744448661804
+                },
+                "3": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 150.26,
+                    "end": 151.2,
+                    "probability": 0.9936720132827759
+                },
+                "4": {
+                    "word": " say.",
+                    "bare_word": " say",
+                    "start": 151.2,
+                    "end": 152.22,
+                    "probability": 0.8755941390991211
+                }
+            }
+        },
+        "43": {
+            "start": 153.28,
+            "end": 155.06,
+            "text": " Suddenly, see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 153.28,
+                    "end": 153.86,
+                    "probability": 0.4320215880870819
+                },
+                "1": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 153.86,
+                    "end": 154.78,
+                    "probability": 0.007686518132686615
+                },
+                "2": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 154.78,
+                    "end": 155.06,
+                    "probability": 0.7927517890930176
+                }
+            }
+        },
+        "44": {
+            "start": 157.08,
+            "end": 161.22,
+            "text": " Is here to provide you,",
+            "words": {
+                "0": {
+                    "word": " Is",
+                    "bare_word": " is",
+                    "start": 157.08,
+                    "end": 157.52,
+                    "probability": 0.0014189000939950347
+                },
+                "1": {
+                    "word": " here",
+                    "bare_word": " here",
+                    "start": 157.52,
+                    "end": 158.4,
+                    "probability": 0.00039018868119455874
+                },
+                "2": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 158.4,
+                    "end": 158.94,
+                    "probability": 0.35466352105140686
+                },
+                "3": {
+                    "word": " provide",
+                    "bare_word": " provide",
+                    "start": 158.94,
+                    "end": 159.12,
+                    "probability": 0.005189687479287386
+                },
+                "4": {
+                    "word": " you,",
+                    "bare_word": " you",
+                    "start": 159.12,
+                    "end": 161.22,
+                    "probability": 0.7381186485290527
+                }
+            }
+        },
+        "45": {
+            "start": 161.32,
+            "end": 165.36,
+            "text": " Suddenly, see more,",
+            "words": {
+                "0": {
+                    "word": " Suddenly,",
+                    "bare_word": " suddenly",
+                    "start": 161.32,
+                    "end": 162.08,
+                    "probability": 0.8429333567619324
+                },
+                "1": {
+                    "word": " see",
+                    "bare_word": " see",
+                    "start": 162.6,
+                    "end": 164.72,
+                    "probability": 0.8438110947608948
+                },
+                "2": {
+                    "word": " more,",
+                    "bare_word": " more",
+                    "start": 164.72,
+                    "end": 165.36,
+                    "probability": 0.9638364911079407
+                }
+            }
+        },
+        "46": {
+            "start": 165.36,
+            "end": 166.88,
+            "text": " Is here to provide me,",
+            "words": {
+                "0": {
+                    "word": " Is",
+                    "bare_word": " is",
+                    "start": 165.36,
+                    "end": 166.0,
+                    "probability": 0.0010762405581772327
+                },
+                "1": {
+                    "word": " here",
+                    "bare_word": " here",
+                    "start": 166.0,
+                    "end": 166.0,
+                    "probability": 0.0007253874209709466
+                },
+                "2": {
+                    "word": " to",
+                    "bare_word": " to",
+                    "start": 166.0,
+                    "end": 166.0,
+                    "probability": 0.0441596619784832
+                },
+                "3": {
+                    "word": " provide",
+                    "bare_word": " provide",
+                    "start": 166.0,
+                    "end": 166.88,
+                    "probability": 0.00045982422307133675
+                },
+                "4": {
+                    "word": " me,",
+                    "bare_word": " me",
+                    "start": 166.88,
+                    "end": 166.88,
+                    "probability": 0.012693501077592373
+                }
+            }
+        },
+        "47": {
+            "start": 166.88,
+            "end": 171.42,
+            "text": " Yes you can.",
+            "words": {
+                "0": {
+                    "word": " Yes",
+                    "bare_word": " yes",
+                    "start": 166.88,
+                    "end": 167.98,
+                    "probability": 0.03738716244697571
+                },
+                "1": {
+                    "word": " you",
+                    "bare_word": " you",
+                    "start": 167.98,
+                    "end": 168.54,
+                    "probability": 0.6154597401618958
+                },
+                "2": {
+                    "word": " can.",
+                    "bare_word": " can",
+                    "start": 168.54,
+                    "end": 171.42,
+                    "probability": 0.9798261523246765
+                }
+            }
+        },
+        "48": {
+            "start": 172.44,
+            "end": 174.82,
+            "text": " I know the feeling,",
+            "words": {
+                "0": {
+                    "word": " I",
+                    "bare_word": " i",
+                    "start": 172.44,
+                    "end": 172.44,
+                    "probability": 0.10095193237066269
+                },
+                "1": {
+                    "word": " know",
+                    "bare_word": " know",
+                    "start": 172.44,
+                    "end": 172.7,
+                    "probability": 0.25474733114242554
+                },
+                "2": {
+                    "word": " the",
+                    "bare_word": " the",
+                    "start": 172.7,
+                    "end": 173.32,
+                    "probability": 0.6964507699012756
+                },
+                "3": {
+                    "word": " feeling,",
+                    "bare_word": " feeling",
+                    "start": 173.32,
+                    "end": 174.82,
+                    "probability": 0.2806423604488373
+                }
+            }
+        },
+        "49": {
+            "start": 175.7,
+            "end": 179.6,
+            "text": " The girl that's inside you,",
+            "words": {
+                "0": {
+                    "word": " The",
+                    "bare_word": " the",
+                    "start": 175.7,
+                    "end": 176.04,
+                    "probability": 0.28428736329078674
+                },
+                "1": {
+                    "word": " girl",
+                    "bare_word": " girl",
+                    "start": 176.04,
+                    "end": 176.34,
+                    "probability": 0.9191410541534424
+                },
+                "2": {
+                    "word": " that's",
+                    "bare_word": " that's",
+                    "start": 176.34,
+                    "end": 177.0,
+                    "probability": 0.6634297221899033
+                },
+                "3": {
+                    "word": " inside",
+                    "bare_word": " inside",
+                    "start": 177.0,
+                    "end": 177.76,
+                    "probability": 0.957872211933136
+                },
+                "4": {
+                    "word": " you,",
+                    "bare_word": " you",
+                    "start": 177.76,
+                    "end": 179.6,
+                    "probability": 0.8378061652183533
+                }
+            }
+        },
+        "50": {
+            "start": 179.92,
+            "end": 182.4,
+            "text": " With sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " With",
+                    "bare_word": " with",
+                    "start": 179.92,
+                    "end": 180.2,
+                    "probability": 0.8775626420974731
+                },
+                "1": {
+                    "word": " sweet",
+                    "bare_word": " sweet",
+                    "start": 180.2,
+                    "end": 180.84,
+                    "probability": 0.9819040894508362
+                },
+                "2": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 180.84,
+                    "end": 182.4,
+                    "probability": 0.8801170587539673
+                }
+            }
+        },
+        "51": {
+            "start": 184.16,
+            "end": 185.46,
+            "text": " With sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " With",
+                    "bare_word": " with",
+                    "start": 184.16,
+                    "end": 184.38,
+                    "probability": 0.7399274706840515
+                },
+                "1": {
+                    "word": " sweet",
+                    "bare_word": " sweet",
+                    "start": 184.38,
+                    "end": 184.8,
+                    "probability": 0.9926642179489136
+                },
+                "2": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 184.8,
+                    "end": 185.46,
+                    "probability": 0.9820343255996704
+                }
+            }
+        },
+        "52": {
+            "start": 185.96,
+            "end": 188.12,
+            "text": " With sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " With",
+                    "bare_word": " with",
+                    "start": 185.96,
+                    "end": 186.4,
+                    "probability": 0.8344595432281494
+                },
+                "1": {
+                    "word": " sweet",
+                    "bare_word": " sweet",
+                    "start": 186.4,
+                    "end": 186.92,
+                    "probability": 0.9956181049346924
+                },
+                "2": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 186.92,
+                    "end": 188.12,
+                    "probability": 0.9932333827018738
+                }
+            }
+        },
+        "53": {
+            "start": 188.16,
+            "end": 190.7,
+            "text": " With sweet understanding.",
+            "words": {
+                "0": {
+                    "word": " With",
+                    "bare_word": " with",
+                    "start": 188.16,
+                    "end": 188.26,
+                    "probability": 0.7234504818916321
+                },
+                "1": {
+                    "word": " sweet",
+                    "bare_word": " sweet",
+                    "start": 188.26,
+                    "end": 189.06,
+                    "probability": 0.992331862449646
+                },
+                "2": {
+                    "word": " understanding.",
+                    "bare_word": " understanding",
+                    "start": 189.06,
+                    "end": 190.7,
+                    "probability": 0.9956783652305603
+                }
+            }
+        },
+        "54": {
+            "start": 190.7,
+            "end": 200.1,
+            "text": " See more as your friend.",
+            "words": {
+                "0": {
+                    "word": " See",
+                    "bare_word": " see",
+                    "start": 190.7,
+                    "end": 193.78,
+                    "probability": 0.14386388659477234
+                },
+                "1": {
+                    "word": " more",
+                    "bare_word": " more",
+                    "start": 193.78,
+                    "end": 195.44,
+                    "probability": 0.0001992687175516039
+                },
+                "2": {
+                    "word": " as",
+                    "bare_word": " as",
+                    "start": 195.44,
+                    "end": 196.0,
+                    "probability": 0.0006059890729375184
+                },
+                "3": {
+                    "word": " your",
+                    "bare_word": " your",
+                    "start": 196.0,
+                    "end": 198.46,
+                    "probability": 0.09978580474853516
+                },
+                "4": {
+                    "word": " friend.",
+                    "bare_word": " friend",
+                    "start": 198.46,
+                    "end": 200.1,
+                    "probability": 0.010565347969532013
+                }
+            }
+        }
+    }
+}
