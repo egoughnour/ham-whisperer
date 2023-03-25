@@ -20,3 +20,9 @@ result = whisper.decode(model, mel, options)
 print(result.text)
 result = model.transcribe("steam_ham_audio.wav", word_timestamps=True)
 print(result["text"])
+segment_list = [segment for segment in result['segments']]
+for i, segment in enumerate(segment_list):
+    start, end, whole_text, words =  (segment['start'], segment['end'], segment['text'],segment['words'])
+    #TODO save to output with file.write(json.dumps())?
+    for j, word in enumerate(words):
+        print(f"""{j:02d}. {word['word']} [{word['start']}-{word['end']}]({word['probability']:.5f}%) """)
