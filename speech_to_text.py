@@ -21,7 +21,7 @@ print(f"Detected language: {max(probs, key=probs.get)}")
 options = whisper.DecodingOptions(language="en", without_timestamps=True, fp16=False)
 result = whisper.decode(model, mel, options)
 print(result.text)
-result = model.transcribe("seymour_audio.wav", word_timestamps=True)
+result = model.transcribe("seymour_audio.wav", word_timestamps=True, initial_prompt="Wash off your mascara Seymour")
 print(result["text"])
 segment_list = [segment for segment in result['segments']]
 segment_dict = {'segments':{}}
