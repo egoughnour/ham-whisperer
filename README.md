@@ -22,13 +22,33 @@ Then Ham Whisperer can help you and Gary Chalmers to excoriate Skinner much more
 
 # Quick Start
 
-1. Create a virtual environment (Python 3.10 or lower [to keep whisper happy]).
-2. Activate the environment (`source virtualenv/bin/activate`).
-3. Install the application `ffmpeg` . (Depending on OS you might be able to use `brew` .)
-4. Install python dependencies via `pip install -r requirements.txt` .
-5. Update `run_this.py` to reflect the .wav and JSON files you wish to process.
-6. Execute `python run_this.py` within your virtual environment.  This may take a short while depending on the model you select and whether you have a GPU. The default model is medium.
-7. (_Work In Progress_) iterate over the transcript and timestamp data to select the clips you want.
+1. Clone the repo in git
+   ```bash
+   git clone https://github.com/egoughnour/ham-whisperer.git
+   ```
+2. Create a virtual environment. (Python 3.10 or lower will keep `whisper` happy.)
+    ```bash
+    brew install python@3.10
+    python3.10 -m venv virtualenv
+    ```
+3. Activate the environment
+   ```bash
+   source virtualenv/bin/activate
+   ```
+4. Install the application `ffmpeg`
+    ```bash
+    brew install ffmpeg
+    ```
+5. Install python dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+6. Update `run_this.py` to reflect the .wav and JSON files you wish to process.
+7. Execute within your virtual environment.  This may take a short while depending on the model you select and whether you have a GPU. The default model is medium.
+   ```bash
+   python run_this.py
+   ```
+8. (_Work In Progress_) iterate over the transcript and timestamp data to select the clips you want.
 
 
 Remove valid matches word-by-word and add more source audio until the full source transcript is accounted for. 
