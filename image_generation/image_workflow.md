@@ -6,18 +6,46 @@
 2. Save these to `image_generation/raw_inputs` .
 3. Find the parts that are not OK as-is.
 3. Mask these out. Specifically
-     - export to PNG ensuring the output file is square. 
+     - export to PNG ensuring the output file is square.
+         - name the file `input_to_correct.png` , saving it within the `image_generation` directory 
      - copy the exported PNG, and open in a graphics editor.
          - _A word to the uninitiated:_ you might install [GIMP][download]. (It's great! It can help with the preceding steps also. [More details][gimphelp])
      - Open the copied PNG as an image or layer.  
      - Delete to transparency in areas where the input image needs to be updated. (Alpha channel should be a mask of good vs bad.)
-     - export the mask  as png.
+     - export the mask  as PNG, again saving in the `image_generation` directory.
+         - name the file `mask.png`
 
 ## Using OpenAI
 
 1. Sign up for an API Key from OpenAI if you don't already have one.
 2. Save this API key in the `.env` file under the `image_generation` directory.
      - You can edit the file `dotenv_template.txt`, save and rename it to `.env`, which is in the .gitignore. (By default the `.env` file can't and won't be part of your next Pull Request--not unless you include it on purpose).
+      - DO NOT COMMIT CHANGES TO `dotenv_template.txt` !  
+      - In `.env` replace `YOUR_API_KEY` with the API key from OpenAI, then save the file.
+
+## Virtual Environment Setup
+
+1. From your IDE (within the terminal) or in the shell, deactivate the current virtual environment if any has already been activated in the project directory.
+    ```bash
+    deactivate
+    ```
+2. Change directory to the `image_generation` directory
+    ```bash
+    pushd image_generation
+    ```
+3. Create an image-specific virtual environment
+    ```bash
+    python3 -m venv imagevenv
+    ```
+4. Activate the virtual environment.
+    ```bash
+    source imagevenv/bin/activate
+    ```
+     - Your prompt should now be prefixed with `(imagevenv)`.
+5. Restore dependencies from `requirements.txt`
+    ```bash
+    pip install -r requirements.txt
+    ``` 
 
 
 
