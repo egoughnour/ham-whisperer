@@ -8,3 +8,5 @@ seymour_audio.wav
 full_steam.mp4
 full_steam.wav
 __pycache__/
+.DS_Store
+image_generation/.env
