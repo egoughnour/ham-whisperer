@@ -63,3 +63,5 @@ You might as well spin up a virtual environment and try it from your git checkou
 
 Remove valid matches word-by-word and add more source audio until the full source transcript is accounted for. 
 
+#### _Where is full_steam.wav? or The Terrible Prescience Exhibited in_ Treehouse of Horror V 
+![img](image_generation/images/momentous_decision.jpeg)
