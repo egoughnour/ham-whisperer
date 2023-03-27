@@ -1,5 +1,5 @@
 # Ham Whisperer
-<img alt="netted ham" src="image_generation/raw_inputs/ham_realism.jpeg" width="256" height="256" />
+<img alt="very smoked ham" src="image_generation/images/smoked_ham.png" width="256" height="256" />
 Stitch together audio (and/or video) from multiple sources, word-by-word.
 Thus you can match the audio or video of your choice to some arbitrary clips.
 Assume your clips include the words in your video's transcript as a subset of their collective transcripts.
