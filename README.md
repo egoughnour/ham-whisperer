@@ -21,7 +21,7 @@ You do remember _Suddenly Seymour_ though.
 
 Then Ham Whisperer can help you and Gary Chalmers to excoriate Skinner much more soulfully than you might otherwise.
 
-There is also a **moderately complete walkthrough of my programmatic image generation and editing worflow** (since I had to create assets anyway).
+There is also a **moderately complete walkthrough of my programmatic image generation and editing workflow** (since I had to create assets anyway).
 You can [find it here](image_generation/image_workflow.md) with source included.
 You might as well spin up a virtual environment and try it from your git checkout since it's housed in this repository anyhow.
 
