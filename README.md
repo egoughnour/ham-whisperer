@@ -25,7 +25,7 @@ There is also a **moderately complete walkthrough of my programmatic image gener
 You can [find it here](image_generation/image_workflow.md) with source included.
 You might as well spin up a virtual environment and try it from your git checkout since it's housed in this repository anyhow.
 
-### _Pictured: What started out as an LLM's fever dream of Audrey paradoxically comforted by Seymour's arson and confabulation_
+### _What started out as an LLM's fever dream of Audrey paradoxically comforted by Seymour's arson and confabulation_
 ![image](image_generation/images/suddenly_seymour.jpeg)
 
 
