@@ -1,4 +1,5 @@
 # Ham Whisperer
+<img alt="netted ham" src="image_generation/raw_inputs/ham_realism.jpeg" width="256" height="256" />
 Stitch together audio (and/or video) from multiple sources, word-by-word.
 Thus you can match the audio or video of your choice to some arbitrary clips.
 Assume your clips include the words in your video's transcript as a subset of their collective transcripts.
@@ -19,6 +20,14 @@ Suppose again for some reason you can't find voice acting in _22 Short Films Abo
 You do remember _Suddenly Seymour_ though.
 
 Then Ham Whisperer can help you and Gary Chalmers to excoriate Skinner much more soulfully than you might otherwise.
+
+There is also a **moderately complete walkthrough of my programmatic image generation and editing worflow** (since had to create assets anyway).
+You can [find it here](image_generation/image_workflow.md) with source included.
+
+### _Pictured: What started out as an LLM's fever dream of Audrey paradoxically comforted by Seymour's arson and confabulation_
+![image](image_generation/input_to_correct.png)
+
+
 
 # Quick Start
 
