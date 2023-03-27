@@ -10,3 +10,4 @@ full_steam.wav
 __pycache__/
 .DS_Store
 image_generation/.env
+**/*.xcf
