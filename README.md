@@ -56,7 +56,7 @@ You might as well spin up a virtual environment and try it from your git checkou
 6. Update `run_this.py` to reflect the .wav and JSON files you wish to process.
 7. Execute within your virtual environment.  This may take a short while depending on the model you select and whether you have a GPU. The default model is medium.
    ```bash
-   python run_this.py
+   python run_this.py full_steam.wav full_ham.json lsoh_sseymour_timestamps.json --whisper-model medium --prompt-file example_prompt_file.txt
    ```
 8. (_Work In Progress_) iterate over the transcript and timestamp data to select the clips you want.
 
