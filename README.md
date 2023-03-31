@@ -84,7 +84,6 @@ The above command will output the merged file into `masterpiece.wav'
 
 This is what the last 23 seconds of that little slice of heaven might sound like:
 
-[nice-example](audio_pool/nice-example.wav)
 
-#### _Where is full_steam.wav? or The Terrible Prescience Exhibited in_ Treehouse of Horror V 
-![img](image_generation/images/momentous_decision.jpeg)
+https://user-images.githubusercontent.com/457471/229022961-a2bfb099-2931-4bbf-b0e5-4b7639ed6f2e.mp4
+
