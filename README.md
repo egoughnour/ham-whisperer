@@ -25,6 +25,7 @@ Suppose again for some reason you can't find voice acting in _22 Short Films Abo
 You do remember _Suddenly Seymour_ though.
 
 Then Ham Whisperer can help you and Gary Chalmers to excoriate Skinner much more soulfully than you might otherwise.
+If you don't immediatelty understand the point, try replaying the end of the [audio] clip [above].  Chalmers starts with a deadpan "Well, Seymour" only to break into song, belt out a sustained "YOU", then finish with a matter-of-fact "are an odd fellow". 
 
 There is also a **moderately complete walkthrough of my programmatic image generation and editing workflow** (since I had to create assets anyway).
 You can [find it here](image_generation/image_workflow.md) with source included.
