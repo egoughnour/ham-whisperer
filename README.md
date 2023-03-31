@@ -7,6 +7,10 @@ Assume your clips include the words in your video's transcript as a subset of th
 
 Ham Whisperer uses `openai-whisper` and keeps tabs on the output data to allow you to splice everything back together.
 
+Not intent on burying the lead, we present for your judgment an outtake from a generated file. _P.S.: the embedded audio player may be muted by default_
+
+https://user-images.githubusercontent.com/457471/229022961-a2bfb099-2931-4bbf-b0e5-4b7639ed6f2e.mp4
+
 With the transcript generated, Ham Whisperer is able to track some fairly useful data for you. 
 
 - the source and destination timestamps
@@ -85,5 +89,5 @@ The above command will output the merged file into `masterpiece.wav'
 This is what the last 23 seconds of that little slice of heaven might sound like:
 
 
-https://user-images.githubusercontent.com/457471/229022961-a2bfb099-2931-4bbf-b0e5-4b7639ed6f2e.mp4
+
 
