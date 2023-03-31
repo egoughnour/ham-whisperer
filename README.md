@@ -87,7 +87,7 @@ python ./run_this.py full_steam.wav full_ham.json sud_seymour.json -o sud_seymou
 
 The above command will output the merged file into `masterpiece.wav'
 
-This is what the last 23 seconds of that little slice of heaven might sound like:
+Finally, I would encourage you to look back at the top of this file and run the audio if you haven't yet.
 
 
 
