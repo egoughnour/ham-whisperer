@@ -4,6 +4,7 @@ Stitch together audio (and/or video) from multiple sources, word-by-word.
 Thus you can match the audio or video of your choice to some arbitrary clips.
 Assume your clips include the words in your video's transcript as a subset of their collective transcripts.
 
+
 Ham Whisperer uses `openai-whisper` and keeps tabs on the output data to allow you to splice everything back together.
 
 With the transcript generated, Ham Whisperer is able to track some fairly useful data for you. 
@@ -45,23 +46,45 @@ You might as well spin up a virtual environment and try it from your git checkou
    ```bash
    source virtualenv/bin/activate
    ```
-4. Install the application `ffmpeg`
-    ```bash
-    brew install ffmpeg
-    ```
-5. Install python dependencies
+Note the command line arguments.
+
+    usage: run_this.py [-h] [-p PROMPT_FILE] [-w WHISPER_MODEL] [-o OTHER_AUDIO_FILE]
+                   input_audio output_path [search_path]
+
+4. Install python dependencies
    ```bash
    pip install -r requirements.txt
    ```
-6. Update `run_this.py` to reflect the .wav and JSON files you wish to process.
-7. Execute within your virtual environment.  This may take a short while depending on the model you select and whether you have a GPU. The default model is medium.
+5. Install the application `ffmpeg` (this may not be necessary, depending on whether `moviepy` can install this dependency--which it is claimed to do).
+    ```bash
+    brew install ffmpeg
+    ```
+6. Run something like the following to extract the transcription data from an audio or video clip.
    ```bash
-   python run_this.py full_steam.wav full_ham.json lsoh_sseymour_timestamps.json --whisper-model medium --prompt-file example_prompt_file.txt
+   python ./run_this.py apollo.mp3 apollo.json
    ```
-8. (_Work In Progress_) iterate over the transcript and timestamp data to select the clips you want.
+7. If you find the transcription is lacking, you can either change to a [larger model in whisper](https://github.com/openai/whisper#available-models-and-languages) using the `-w` argument --which will take significantly more time to process--or simply write out a prompt file.
+ Enter token sequences you expect the decoder to hear, one per line, into a text file.  For example in _Suddenly Seymour_, the word _Seymour_ was consistently separated into _see_ _more_ . Unsurprisingly _Seymour's_ became _see more as_.  Compounding this problem was _wash off your mascara_ -- which became a single four syllable word.
+This requires a prompt file like so:
+ ```text
+ Wash off your mascara
+ Seymour
+ ```
+Save it as, say, `whisper_input_prompt.txt` then, to continue with the example, we would use the `-p` argument.
+```bash
+python ./run_this.py sud_seymour.mp4 sud_seymour.json -p whisper_input_prompt.txt
+```
+8. Now you have the data necessary, but the merge has not been executed.  When calling with the `-o` argument and passing a total of two files containing audio streams and two JSON files, the best matches are automatically chosen.  Currently this is limited to one source and one target file.
 
+```bash
+python ./run_this.py full_steam.wav full_ham.json sud_seymour.json -o sud_seymour.mp4
+```
 
-Remove valid matches word-by-word and add more source audio until the full source transcript is accounted for. 
+The above command will output the merged file into `masterpiece.wav'
+
+This is what the last 23 seconds of that little slice of heaven might sound like:
+
+[nice-example](audio_pool/nice-example.wav)
 
 #### _Where is full_steam.wav? or The Terrible Prescience Exhibited in_ Treehouse of Horror V 
 ![img](image_generation/images/momentous_decision.jpeg)
