@@ -72,16 +72,19 @@ This requires a prompt file like so:
  ```
 Save it as, say, `whisper_input_prompt.txt` then, to continue with the example, we would use the `-p` argument.
 ```bash
-python ./run_this.py 
+python ./run_this.py sud_seymour.mp4 sud_seymour.json -p whisper_input_prompt.txt
 ```
-7. Execute within your virtual environment.  This may take a short while depending on the model you select and whether you have a GPU. The default model is medium.
-   ```bash
-   python run_this.py full_steam.wav full_ham.json lsoh_sseymour_timestamps.json --whisper-model medium --prompt-file example_prompt_file.txt
-   ```
-8. (_Work In Progress_) iterate over the transcript and timestamp data to select the clips you want.
+8. Now you have the data necessary, but the merge has not been executed.  When calling with the `-o` argument and passing a total of two files containing audio streams and two JSON files, the best matches are automatically chosen.  Currently this is limited to one source and one target file.
 
+```bash
+python ./run_this.py full_steam.wav full_ham.json sud_seymour.json -o sud_seymour.mp4
+```
 
-Remove valid matches word-by-word and add more source audio until the full source transcript is accounted for. 
+The above command will output the merged file into `masterpiece.wav'
+
+This is what the last 23 seconds of that little slice of heaven might sound like:
+
+[nice-example](audio_pool/nice-example.wav)
 
 #### _Where is full_steam.wav? or The Terrible Prescience Exhibited in_ Treehouse of Horror V 
 ![img](image_generation/images/momentous_decision.jpeg)
