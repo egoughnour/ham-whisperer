@@ -1,5 +1,10 @@
 # Ham Whisperer
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+   ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-green.svg)
+   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 <img alt="very smoked ham" src="image_generation/images/smoked_ham.png" width="256" height="256" />
+
 Stitch together audio (and/or video) from multiple sources, word-by-word.
 Thus you can match the audio or video of your choice to some arbitrary clips.
 Assume your clips include the words in your video's transcript as a subset of their collective transcripts.
